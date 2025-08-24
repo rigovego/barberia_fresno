@@ -137,7 +137,7 @@ img.bw-image:hover {
 
 
 .hero {
-    background: url('/img/hero_fondo.webp') center center/cover no-repeat;
+    background: url('img/hero_fondo.webp') center center/cover no-repeat;
     height: 70vh;
     color: var(--color-text-light);
     display: flex;
